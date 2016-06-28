@@ -1,0 +1,98 @@
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: white;
+	color: #3E4244;
+	/*#3E4244
+	#66C0EC*/
+}
+
+#left, #right a {
+	
+	text-decoration: none;
+	color: #D46A6A;
+}
+
+#left, #right a:hover {
+	color: #AA3939;
+}
+
+.fa-cloud-download {
+	color: #D46A6A;
+}
+.fa-cloud-download:hover {
+	color: #AA3939;
+}
+#nameplate i {
+	color: #801515;
+}
+
+#nameplate i:hover {
+	color: #550000;
+}
+
+
+#left, #right {
+	float:left;
+	width: 50%;
+}
+
+#plate {
+	display:block;
+}
+#nameplate {
+	float: left;
+	width: 80%;
+}
+#bio {
+	float: left;
+}
+
+#dwnld {
+	text-align: center;
+	padding-top: 10%;
+	font-size: 24px;
+}
+
+#desc {
+	margin-right: 12%;
+	margin-left: 12%;
+	width: 75%;
+	font-size: 15px;
+}
+
+#desc p {
+	text-align: justify;
+}
+
+/*#bio {
+	width: 50%;
+	float: left;
+	margin-right: 25%;
+	margin-left: 25%;
+	text-align: center;
+	padding-top: 5%;
+}*/
+#social {
+	text-align: center;
+	float: center;
+	padding-top: 2%;
+}
+
+.circ {
+	/*margin: auto;
+	text-align: center;*/
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(assets/dp.png) no-repeat;
+	background-size: 200px 200px;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	
+}
+
+
+
